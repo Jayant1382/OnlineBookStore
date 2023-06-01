@@ -1,0 +1,127 @@
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\appsettings.Development.json
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\appsettings.json
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\BookStoreBE.exe
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\BookStoreBE.deps.json
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\BookStoreBE.runtimeconfig.json
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\BookStoreBE.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\BookStoreBE.pdb
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Humanizer.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\obj\Debug\net6.0\BookStoreBE.csproj.AssemblyReference.cache
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\obj\Debug\net6.0\BookStoreBE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\obj\Debug\net6.0\BookStoreBE.AssemblyInfoInputs.cache
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\obj\Debug\net6.0\BookStoreBE.AssemblyInfo.cs
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\obj\Debug\net6.0\BookStoreBE.csproj.CoreCompileInputs.cache
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\obj\Debug\net6.0\BookStoreBE.MvcApplicationPartsAssemblyInfo.cs
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\obj\Debug\net6.0\BookStoreBE.MvcApplicationPartsAssemblyInfo.cache
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\obj\Debug\net6.0\staticwebassets.build.json
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\obj\Debug\net6.0\staticwebassets.development.json
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\obj\Debug\net6.0\scopedcss\bundle\BookStoreBE.styles.css
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\obj\Debug\net6.0\BookStoreBE.csproj.CopyComplete
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\obj\Debug\net6.0\BookStoreBE.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\obj\Debug\net6.0\refint\BookStoreBE.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\obj\Debug\net6.0\BookStoreBE.pdb
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\obj\Debug\net6.0\BookStoreBE.genruntimeconfig.cache
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\obj\Debug\net6.0\ref\BookStoreBE.dll
+D:\Youtube Channel\Student Projects\Book Store ( Jayent Gupta )\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\appsettings.Development.json
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\appsettings.json
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\BookStoreBE.exe
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\BookStoreBE.deps.json
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\BookStoreBE.runtimeconfig.json
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\BookStoreBE.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\BookStoreBE.pdb
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Humanizer.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\obj\Debug\net6.0\BookStoreBE.csproj.AssemblyReference.cache
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\obj\Debug\net6.0\BookStoreBE.GeneratedMSBuildEditorConfig.editorconfig
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\obj\Debug\net6.0\BookStoreBE.AssemblyInfoInputs.cache
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\obj\Debug\net6.0\BookStoreBE.AssemblyInfo.cs
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\obj\Debug\net6.0\BookStoreBE.csproj.CoreCompileInputs.cache
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\obj\Debug\net6.0\BookStoreBE.MvcApplicationPartsAssemblyInfo.cs
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\obj\Debug\net6.0\BookStoreBE.MvcApplicationPartsAssemblyInfo.cache
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\obj\Debug\net6.0\staticwebassets\msbuild.BookStoreBE.Microsoft.AspNetCore.StaticWebAssets.props
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\obj\Debug\net6.0\staticwebassets\msbuild.build.BookStoreBE.props
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookStoreBE.props
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookStoreBE.props
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\obj\Debug\net6.0\staticwebassets.pack.json
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\obj\Debug\net6.0\staticwebassets.build.json
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\obj\Debug\net6.0\staticwebassets.development.json
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\obj\Debug\net6.0\scopedcss\bundle\BookStoreBE.styles.css
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\obj\Debug\net6.0\BookStoreBE.csproj.CopyComplete
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\obj\Debug\net6.0\BookStoreBE.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\obj\Debug\net6.0\refint\BookStoreBE.dll
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\obj\Debug\net6.0\BookStoreBE.pdb
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\obj\Debug\net6.0\BookStoreBE.genruntimeconfig.cache
+F:\BookStore\BookStoreBE\BookStoreBE\BookStoreBE\obj\Debug\net6.0\ref\BookStoreBE.dll
